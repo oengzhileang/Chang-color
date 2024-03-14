@@ -1,0 +1,22 @@
+{
+  "name": "chang-box-color",
+  "version": "1.0.0",
+  "description": "Chang box color when user input some names of the color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oengzhileang/Chang-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oengzhileang/Chang-color/issues"
+  },
+  "homepage": "https://github.com/oengzhileang/Chang-color#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
